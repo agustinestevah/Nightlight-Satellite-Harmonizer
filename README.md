@@ -1,4 +1,4 @@
-# Satellite-Harmonizer
+# NightLight-Satellite-Harmonizer
 Are you annoyed about the jump in resolution from the pre-2013 DMSP Satellite to the post 2012 VIIRS Satellite? I follow the methodology in existing literature to create Stata code to harmonize the data.
 
 I follow _Li, X., Zhou, Y., Zhao, M. et al. A harmonized global nighttime light dataset 1992–2018. Sci Data 7, 168 (2020)_ and _Zhao, M. et al. Building a Series of Consistent Night-Time Light Data (1992–2018) in Southeast Asia by Integrating DMSP-OLS and NPP-VIIRS. IEEE Trans. Geosci. Remote. Sens. 58, 1843–1856 (2019)_ to code an outline for how to harmonize the data. 
