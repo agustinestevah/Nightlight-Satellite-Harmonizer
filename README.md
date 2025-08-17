@@ -11,8 +11,8 @@ Methodology:
 
 This code was made originally from VIIRS and DMSP nightlight satellight data of Rwanda for my Econ lab, so change it as you see fit. The data source I am using is a yearly estimate of the irradiance of the pixels in a photograph. It is a .csv that looks like: 
 
-                                                                                                        Category | Count |  Area |
-                                                                                                           X     |  N    |   n   |
+    Category | Count |  Area |
+    X     |  N    |   n   |
                                                                                                            
 Category: In my case it was sectors of Rwanda.
 Count: Number of lit pixels.
